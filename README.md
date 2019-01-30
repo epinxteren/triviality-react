@@ -6,7 +6,7 @@
 * [Reads](#reads)
 
 
-![Licence](https://img.shields.io/npm/l/triviality-react.svg) [![Build Status](https://travis-ci.org/epinxteren/triviality-react.svg?branch=master)](https://travis-ci.org/epinxteren/triviality-react) [![npm version](https://badge.fury.io/js/triviality-react.svg)](https://badge.fury.io/js/triviality-react) ![coverage](https://github.com/epinxteren/triviality-react/raw/master/docs/coverage.svg?sanitize=true)  
+![Licence](https://img.shields.io/npm/l/triviality-logger.svg) [![Build Status](https://travis-ci.org/epinxteren/triviality-logger.svg?branch=master)](https://travis-ci.org/epinxteren/triviality-logger) [![npm version](https://badge.fury.io/js/triviality-logger.svg)](https://badge.fury.io/js/triviality-logger) ![coverage](https://github.com/epinxteren/triviality-logger/raw/master/docs/coverage.svg?sanitize=true)  
 
 # Installation
 
